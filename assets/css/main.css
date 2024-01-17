@@ -1757,3 +1757,23 @@ input, select, textarea {
 	height: 85px; /* Adjust the size as needed */
 	object-fit: cover; /* Ensures the image covers the area without distortion */
 }
+/* bg video */
+body, html {
+	height: 100%;
+	margin: 0;
+}
+
+
+
+#bg {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%; 
+	min-height: 100%;
+}
+
+#bgvid {
+	width: 100%; /* Adjust as needed */
+	height: 100%; /* Adjust as needed */
+}
