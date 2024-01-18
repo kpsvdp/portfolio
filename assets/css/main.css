@@ -1785,7 +1785,7 @@ body, html {
 }
 
 /* For tablets */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
     #bgvid {
         /* Adjustments for tablet devices */
         /* Example: */
@@ -1795,7 +1795,7 @@ body, html {
 }
 
 /* For mobile devices */
-@media (max-width: 480px) {
+@media (max-width: 600px) {
     #bgvid {
         /* Adjustments for mobile devices */
         /* Example: */
